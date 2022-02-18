@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------------
+
+
+databse 
+
+stores files 
+for your server 
+front end reactor 
+mpn 
+incorrect photo 
+started 
+last mark 43 min 
+-----------------------------------------------------------------------------------
+notes from 
+
+https://medium.com/cleverprogrammer/amazon-clone-using-react-the-ultimate-guide-fba2b36f3458
+----------------------------------------------------------------------------------------------
+out side switch render regarder of the root of the home 
+render texts two decimal places home work 
+used a a prob 
+dynamic remove them updats price for store 
+ruducer  dispace into the data layer 
+pulling part 
+basket pulling items for the items for reducer .js state basket 
+console log the basket .>>>> 
+basket 
+two items into the item shop for the databse that can auto 
+functions doesnt matter thee items for hte baskekt 
+shopping basket 
+-----------------------------------------------------------------------------
+target for each basket that follows through 
+border block 
+users 
+cloud storage 
+
+
+--------------------------------------------------------------------------------
+
+
